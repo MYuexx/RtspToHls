@@ -36,3 +36,6 @@
 接口类型：GET
 
 参数说明：name取值为推流接口返回的name字段值
+
+
+前置条件参考：https://blog.csdn.net/qq_20391065/article/details/115723208
