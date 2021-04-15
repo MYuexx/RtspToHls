@@ -1,0 +1,13 @@
+version: '2'
+services:
+  rtsp:
+    image: lishi/rtsp:1.0
+    container_name: rtsp
+    volumes:
+    - ./logs:/logs
+    - /etc/localtime:/etc/localtime:ro
+    ports:
+      - 12888:8080
+    privileged: true
+    restart: always
+

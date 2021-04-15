@@ -1,0 +1,14 @@
+
+@
+java:S1905½")Remove this unnecessary cast to "String".(ïùò®
+T	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(§øÍïÿÿÿÿÿ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(¨‘ûÑ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«Ù×
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(§øÍïÿÿÿÿÿ
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(’È»€ûÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(É“¶“øÿÿÿÿ
+T	java:S106û"9Replace this use of System.out or System.err by a logger.(ëÈ×Ûüÿÿÿÿ
+T	java:S106º"9Replace this use of System.out or System.err by a logger.(²ÖÔ²øÿÿÿÿ
+T	java:S106é"9Replace this use of System.out or System.err by a logger.(ãÁãúÿÿÿÿ
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(Û½ØÒ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(©ÇîÍıÿÿÿÿ
